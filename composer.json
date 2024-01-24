@@ -1,0 +1,16 @@
+{
+    "name": "sazan4ek/mypackage",
+    "authors": [
+          {
+              "name": "ArtyoSazanovets",
+              "email": "artterm24@gmail.com"
+          }
+      ],
+    "version": "1.0.0",
+    "description": "Just test package",
+    "autoload": {
+          "psr-4" : {
+              "Sazan4ek\\MyPackage\\" : "src/"
+          }
+      }
+  }
